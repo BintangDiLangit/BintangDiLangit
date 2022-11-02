@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/bintangmf_hd" target="blank"><img src="https://img.shields.io/twitter/follow/bintangmf_hd?logo=twitter&style=for-the-badge" alt="bintangmf_hd" /></a> </p>
 
-- 🔭 I’m currently working on [BANGBELI](https://bangbeli.id)
+- 🔭 I’m currently working on [PT MOTASA INDONESIA - LADAKU](https://www.motasaindonesia.com/)
 
 - 🌱 I’m currently learning **Laravel, Go**
 
-- 👨‍💻 All of my projects are available at [https://bintangmfhd.tech](https://bintangmfhd.tech)
+- 👨‍💻 All of my projects are available at [https://bintangmfhd.tech](https://bintangmfhd.com)
 
 - 📝 I regularly write articles on [https://bintangmfhd.medium.com](https://bintangmfhd.medium.com)
 
