@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bintang Miftaqul Huda</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangdilangit&label=Profile%20views&color=0e75b6&style=flat" alt="bintangdilangit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bintangdilangit" alt="bintangdilangit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bintangmf_hd" target="blank"><img src="https://img.shields.io/twitter/follow/bintangmf_hd?logo=twitter&style=for-the-badge" alt="bintangmf_hd" /></a> </p>
-
-- 🔭 I’m currently working on [PT MOTASA INDONESIA - LADAKU](https://www.motasaindonesia.com/)
 
 - 🌱 I’m currently learning **Laravel, Go**
 
