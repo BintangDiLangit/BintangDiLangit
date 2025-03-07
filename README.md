@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://bintangmfhd.medium.com](https://bintangmfhd.medium.com)
 
-- 💬 Ask me about **Laravel, Go, Database**
+- 💬 Ask me about **Rust, PHP, Go, Database**
 
 - 📫 How to reach me **bintangmfhd@gmail.com**
 
