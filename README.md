@@ -69,16 +69,20 @@ const bintang = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintangdilangit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangdilangit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintangdilangit&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangdilangit&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintangdilangit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bintangdilangit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=bintangdilangit&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bintangdilangit&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
