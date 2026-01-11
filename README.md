@@ -66,23 +66,6 @@ const bintang = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintangdilangit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangdilangit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintangdilangit&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bintangdilangit&theme=radical&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
