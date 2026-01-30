@@ -24,16 +24,6 @@ I'm a passionate software engineer with **4+ years of experience** building scal
 
 ---
 
-## 💼 Experience
-
-### PT AIRA Technology Indonesia
-*Building AI-powered solutions that transform businesses*
-
-**Role:** Software Engineer  
-**Focus:** AI Strategy, Machine Learning, NLP, and AI Integration
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🥇 **Top 10 Finalist & Best UI/UX** — Hackfest 2022 (Google Developer Student Club Indonesia)
